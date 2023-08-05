@@ -44,5 +44,5 @@ func main() {
 	}
 
 	r.Close()
-	log.Println("read write completed")
+	log.Println("read write completed!!")
 }
